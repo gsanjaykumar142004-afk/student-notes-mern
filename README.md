@@ -3,9 +3,9 @@
 A two-tier full-stack notes management application built with MongoDB, Express, React (Vite), and Node.js.
 
 ## Candidate Details
-- **Name:** _<G.Sanjay kumar>_
-- **Student ID:** _<2026201011>_
-- **GitHub Repository:** _<link to your repo>_
+- **Name:** G.Sanjay kumar
+- **Student ID:** 2026201011
+- **GitHub Repository:** <https://github.com/gsanjaykumar142004-afk/student-notes-mern>
 
 ## Tech Stack
 - **Frontend:** React (Vite) + Axios
@@ -14,7 +14,7 @@ A two-tier full-stack notes management application built with MongoDB, Express, 
 
 ## Project Structure
 ```
-notes-app/
+student-notes-mern/
 |-- server/       # Express + MongoDB backend
 |-- client/       # Vite + React frontend
 |-- screenshots/  # Proof-of-functionality screenshots
@@ -28,8 +28,8 @@ notes-app/
 
 ### 1. Clone and enter the project
 ```bash
-git clone <your-repo-url>
-cd notes-app
+git clone <https://github.com/gsanjaykumar142004-afk/student-notes-mern.git>
+cd student-notes-mern
 ```
 
 ### 2. Start the backend server
